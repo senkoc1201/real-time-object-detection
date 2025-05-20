@@ -87,26 +87,12 @@ If you want to contribute to this project, please feel free to submit a pull req
 
 ## Authors
 
-Juan Sebastian - Initial work - [@juanjaho](https://github.com/juanjaho)
+Juan Sebastian - Initial work - [@Anh K](https://github.com/senkoc1201)
 
 ## License
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE.md) file for details.
 
-## Acknowledgments
 
-- Thank you to [@ultralytics](https://github.com/ultralytics) for the easy configuration of YOLOv10 model.
-
-- Thank you to [@THU-MIG] (https://github.com/THU-MIG) for creating [YOLOv10](https://github.com/THU-MIG/yolov10) model.
-
-- Thank you to [@WongKinYiu](https://github.com/WongKinYiu) for creating [YOLOv7](https://github.com/WongKinYiu/yolov7) model.
-
-- Hats off to the ONNXRuntime team for making such a powerful tool accessible to developers.
-
-- Referenced [ONNXRuntime Web Demo](https://github.com/microsoft/onnxruntime-web-demo) for guidance on how to use ONNXRuntime in a web application.
-
-- Thank you to all the contributors to the open-source libraries used in this project.
-
-- Inspiration for this project was taken from my previous project [AnimeArcaneGAN_Mobile](https://github.com/juanjaho/AnimeArcaneGAN_Mobile)
 
 
