@@ -87,7 +87,7 @@ If you want to contribute to this project, please feel free to submit a pull req
 
 ## Authors
 
-Juan Sebastian - Initial work - [@Anh K](https://github.com/senkoc1201)
+Initial work - [@Anh K](https://github.com/senkoc1201)
 
 ## License
 
