@@ -109,30 +109,4 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 - Inspiration for this project was taken from my previous project [AnimeArcaneGAN_Mobile](https://github.com/juanjaho/AnimeArcaneGAN_Mobile)
 
-## Citation for YOLOv10
 
-```
-
-@article{THU-MIGyolov10,
-title={YOLOv10: Real-Time End-to-End Object Detection},
-author={Ao Wang, Hui Chen, Lihao Liu, et al.},
-journal={arXiv preprint arXiv:2405.14458},
-year={2024},
-institution={Tsinghua University},
-license = {AGPL-3.0}
-}
-
-```
-
-## Citation for YOLOv7
-
-```
-
-@article{wang2022yolov7,
-title={{YOLOv7}: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors},
-author={Wang, Chien-Yao and Bochkovskiy, Alexey and Liao, Hong-Yuan Mark},
-journal={arXiv preprint arXiv:2207.02696},
-year={2022}
-}
-
-```
